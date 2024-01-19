@@ -1,0 +1,18 @@
+.listOfCalls {
+    margin-top: 30px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid gray;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 20px 0px;
+
+}
+
+.material-symbols-outlined {
+    padding: 0px 5px;
+}

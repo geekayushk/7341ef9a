@@ -1,0 +1,10 @@
+.bottomNav {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.material-symbols-outlined {
+    padding: 0px 5px;
+}

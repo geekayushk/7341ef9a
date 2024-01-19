@@ -1,0 +1,36 @@
+.navList {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 40px 0px;
+}
+
+.navList li {
+    list-style: none;
+    font-weight: bold;
+}
+
+.cup {
+    text-decoration: none;
+    color: black;
+}
+
+.activity {
+    font-size: 25px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.chg {
+    color: green;
+}
+
+.material-symbols-outlined {
+    padding: 0px 5px;
+}
+
+.active {
+    color: green;
+    border-bottom: 5px solid green;
+    padding-bottom: 10px;
+}
